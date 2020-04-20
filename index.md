@@ -4,6 +4,6 @@
 
 ## Technical Paper
 
-<p>Open a PDF file <a href="https://github.com/zlxteam2020/Life-Simulator/blob/master/EDD-Life%20Simulator.pdf">example</a>.</p>
-
+<iframe src="https://github.com/zlxteam2020/Life-Simulator/blob/master/EDD-Life%20Simulator.pdf" width="100%" height="500px">
+  
 ## Our LinkedIns
