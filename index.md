@@ -4,7 +4,7 @@
 
 ## Technical Paper
 
-<embed src="https://zlxteam2020.github.io/Life-Simulator/EDD-Life%20Simulator.pdf" width = "500"/>
+<embed src="https://zlxteam2020.github.io/Life-Simulator/EDD-Life%20Simulator.pdf" width = "900" height = "600"/>
 
 ## Our LinkedIns
 
