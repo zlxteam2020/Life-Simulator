@@ -4,6 +4,6 @@
 
 ## Technical Paper
 
-<iframe src="https://github.com/zlxteam2020/Life-Simulator/blob/master/EDD-Life%20Simulator.pdf" width="100%" height="500px">
-  
+<embed src="https://github.com/zlxteam2020/Life-Simulator/blob/master/EDD-Life%20Simulator.pdf" type="application/pdf" />
+
 ## Our LinkedIns
