@@ -8,7 +8,7 @@
 
 ## Our LinkedIns
 
-<a href="https://www.linkedin.com/in/zhihan-zhang-840176169/">Zhihan Zhang/</a>
-<a href="https://www.linkedin.com/in/jia-xu0602/">Jia Xu/</a>
-<a href="https://www.linkedin.com/in/chuanzhe-ashley-li-249a1416a/">Chuanzhe Li/</a>
+<a href="https://www.linkedin.com/in/zhihan-zhang-840176169/">Zhihan Zhang</a><br>
+<a href="https://www.linkedin.com/in/jia-xu0602/">Jia Xu</a><br>
+<a href="https://www.linkedin.com/in/chuanzhe-ashley-li-249a1416a/">Chuanzhe Li</a><br>
 
