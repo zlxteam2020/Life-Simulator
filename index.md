@@ -4,6 +4,6 @@
 
 ## Technical Paper
 
-<embed src="https://zlxteam2020.github.io/Life-Simulator/EDD-Life%20Simulator.pdf" type="application/pdf" />
+<embed src="https://zlxteam2020.github.io/Life-Simulator/EDD-Life%20Simulator.pdf" />
 
 ## Our LinkedIns
