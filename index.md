@@ -1,8 +1,7 @@
 ## Project Video
 
-<object width="420" height="315"
-data="https://www.youtube.com/watch?v=KOxbO0EI4MA">
-</object>
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=KOxbO0EI4MA">
+</iframe>
 
 ## Technical Paper
 
