@@ -1,4 +1,4 @@
-## Life Simulator
+## Project Video
 
 You can use the [editor on GitHub](https://github.com/zlxteam2020/Life-Simulator/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
