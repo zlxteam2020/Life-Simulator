@@ -9,7 +9,7 @@ Here we want to mimic this status and find hidden strategies based on simulator,
 
 ## Technical Paper
 
-<embed src="https://zlxteam2020.github.io/Life-Simulator/EDD-Life%20Simulator.pdf" width = "900" height = "1200"/>
+<embed src="https://zlxteam2020.github.io/Life-Simulator/EDD.pdf" width = "900" height = "1200"/>
 
 ## Our LinkedIns
 
