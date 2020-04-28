@@ -8,7 +8,8 @@ Here we want to mimic this status and find hidden strategies based on simulator,
    width="900" height = "506" frameborder="0" allowfullscreen></iframe>
 
 ## Slides
-<iframe src="https://zlxteam2020.github.io/Life-Simulator/Slides.pptx" width="900" height="675" frameborder="0"></iframe>
+
+<embed src="https://zlxteam2020.github.io/Life-Simulator/Slides.pdf" width = "900" height = "675"/>
    
 ## Technical Paper
 
@@ -16,7 +17,7 @@ Here we want to mimic this status and find hidden strategies based on simulator,
 
 ## Our project github
 
-<a href = "https://github.com/csci-599-applied-ml-for-games/Life-Simulator/"> Life-Simulator></a><br>
+<a href = "https://github.com/csci-599-applied-ml-for-games/Life-Simulator/"> Life-Simulator</a><br>
 
 ## Our LinkedIns
 
