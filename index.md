@@ -8,7 +8,7 @@ Here we want to mimic this status and find hidden strategies based on simulator,
    width="900" height = "506" frameborder="0" allowfullscreen></iframe>
 
 ## Slides
-<iframe src='https://github.com/zlxteam2020/Life-Simulator/blob/master/Slides.pptx]' width='900' height='675' frameborder='0'>
+<iframe src="https://github.com/zlxteam2020/Life-Simulator/blob/master/Slides.pptx" width='900' height='675' frameborder='0'>
    
 ## Technical Paper
 
