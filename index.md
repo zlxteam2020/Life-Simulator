@@ -5,7 +5,7 @@ Here we want to mimic this status and find hidden strategies based on simulator,
 ## Project Video
 
 <iframe src="https://www.youtube.com/embed/5qFh01Kd6vg"
-   width="900" height = "720" frameborder="0" allowfullscreen></iframe>
+   width="900" height = "506" frameborder="0" allowfullscreen></iframe>
 
 ## Technical Paper
 
