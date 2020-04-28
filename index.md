@@ -1,4 +1,9 @@
 ## Project Video
+
+As the history passes, there are only two things stay in stale, survive and competition. The life in earth can be simplified to the maximum their ability to live, to become healthy, the simplest goal for nature beings may induce millions of undocumented strategies for every unique species to sustain themselves. 
+
+Here we want to mimic this status and find hidden strategies based on simulator, thus we want to create many agents fight for living everyone need to acquire daily necessities to survive and by adopting deep reinforcement we may mimic the process of each species can learn from the terrain and conditions provided by the infinite and may induce serendipitous results.
+
 <iframe src="https://www.youtube.com/embed/5qFh01Kd6vg"
    width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
