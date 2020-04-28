@@ -1,6 +1,6 @@
 ## Project Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5qFh01Kd6vg&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5qFh01Kd6vg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Technical Paper
 
