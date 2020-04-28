@@ -7,9 +7,16 @@ Here we want to mimic this status and find hidden strategies based on simulator,
 <iframe src="https://www.youtube.com/embed/5qFh01Kd6vg"
    width="900" height = "506" frameborder="0" allowfullscreen></iframe>
 
+## Slides
+<iframe src='https://github.com/zlxteam2020/Life-Simulator/blob/master/Slides.pptx]' width='900' height='100%' frameborder='0'>
+   
 ## Technical Paper
 
 <embed src="https://zlxteam2020.github.io/Life-Simulator/EDD.pdf" width = "900" height = "1200"/>
+
+## Our project github
+
+<a href = "https://github.com/csci-599-applied-ml-for-games/Life-Simulator/"> Life-Simulator></a><br>
 
 ## Our LinkedIns
 
